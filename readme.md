@@ -26,7 +26,7 @@ Le projet sera mené en suivant une approche agile basée sur SCRUM avec les ét
 ## Organisation du Projet ## 
 Équipe
 
-* IA Product Manager (vous) : responsable du cadrage, suivi et pilotage du projet.
+* IA Product Manager : responsable du cadrage, suivi et pilotage du projet.
 
 * VP Product (Alicia) : garante de la vision produit et décisionnaire clé.
 
